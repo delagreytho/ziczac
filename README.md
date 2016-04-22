@@ -32,22 +32,22 @@ $ git clone https://github.com/delagreytho/ziczac.git
 $ cd ziczac
 $ ionic platform add ios/android
 $ ionic build ionic/android
-$ ionic serve    
+$ ionic serve    #run in the browser
 ```
 
 
-### Steps
+### Steps inside the App
  - Register your Username
  - Choose the song to favorie or skip
- - go to favorite to see your list
- - slide to left if you want to delete a favorite song from the list
- - for listen the entire song click on the song.
+ - Go to favorite to see your list
+ - Slide to left if you want to delete a favorite song from the list
+ - For listen the entire song click on the song.
 
 
 
+#Reference
 
-[dill]: <https://github.com/joemccann/dillinger>
-[thinkster]: <https://thinkster.io/>
+[Tutorial followed](https://thinkster.io/)
 
 
 
