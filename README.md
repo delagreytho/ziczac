@@ -2,11 +2,11 @@
 
 # ZicZac
 
-ZicZac is a App of 30 seconds of music with a list of favorites.
+ZicZac is a App that show you 30 seconds of song  with a list of favorites.
+
 
   - Using Ionic
   - Following tutorial
-  - Magic
 
 
 
@@ -21,7 +21,7 @@ ZicZac is a App of 30 seconds of music with a list of favorites.
 
 ### Installation
 
-Install Node.js
+Install Ionic
 
 ```sh
 $ npm install -g cordova ionic
@@ -36,16 +36,21 @@ $ ionic serve
 ```
 
 
-### Development
+### Steps
+ - Register your Username
+ - Choose the song to favorie or skip
+ - go to favorite to see your list
+ - slide to left if you want to delete a favorite song from the list
+ - for listen the entire song click on the song.
 
+
+
+
+[dill]: <https://github.com/joemccann/dillinger>
+[thinkster]: <https://thinkster.io/>
 
 
 
 License
 ----
 MIT
-
-
-
-   [dill]: <https://github.com/joemccann/dillinger>
-   [thinkster]: <https://thinkster.io/>
