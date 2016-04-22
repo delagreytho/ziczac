@@ -8,7 +8,7 @@ ZicZac is a App of 30 seconds of music with a list of favorites.
   - Following tutorial
   - Magic
 
-[Markdown site][df1]
+
 
 > Ionic offers a library of mobile-optimized HTML, CSS and JS CSS components.
 >Built with SASS and AngularJS
