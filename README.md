@@ -47,7 +47,9 @@ $ ionic serve    #run in the browser
 
 #Reference
 
-[Tutorial followed](https://thinkster.io/)
+[Ionic](http://ionicframework.com/getting-started/)
+[Thinkster](https://thinkster.io/)
+
 
 
 
